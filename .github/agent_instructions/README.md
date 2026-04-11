@@ -1,5 +1,8 @@
 # Agent Instructions
 
+This README defines the purpose of the repository's agent-instructions
+layer.
+
 This directory contains instruction assets that support disciplined
 human plus AI collaboration in a repository.
 
